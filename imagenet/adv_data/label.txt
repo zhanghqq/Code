@@ -1,0 +1,180 @@
+0: 'tench',97.83165
+5: 'electric ray',67.998924
+10: 'brambling',99.60437
+15: 'robin',99.976974
+20: 'water ouzel',99.994972
+25: 'European fire salamander',99.574982
+30: 'bullfrog',99.855736
+35: 'mud turtle',77.737823
+40: 'American chameleon',70.378326
+45: 'Gila monster',99.936089
+50: 'American alligator',88.954117
+55: 'green snake',96.013321
+61: 'boa constrictor',99.922386
+67: 'diamondback',89.508377
+74: 'garden spider',69.767311
+79: 'centipede',97.678772
+84: 'peacock',99.998734
+89: 'sulphur-crested cockatoo',99.99939
+94: 'hummingbird',92.778252
+99: 'goose',99.991356
+104: 'wallaby',99.270638
+109: 'brain coral',99.621338
+114: 'slug',98.150597
+119: 'rock crab',99.100494
+125: 'hermit crab',87.329796
+130: 'flamingo',99.987862
+135: 'limpkin',99.999771
+140: 'red-backed sandpiper',99.682922
+145: 'king penguin',99.997017
+150: 'sea lion',99.927383
+155: 'Shih-Tzu',93.242172
+160: 'Afghan hound',99.951996
+165: 'black-and-tan coonhound',93.790398
+170: 'Irish wolfhound',96.844521
+175: 'otterhound',98.326599
+180: 'American Staffordshire terrier',86.499863
+185: 'Norfolk terrier',85.517326
+190: 'Sealyham terrier',99.68132
+195: 'Boston bull',85.83667
+200: 'Tibetan terrier',91.491707
+205: 'flat-coated retriever',99.056992
+210: 'German short-haired pointer',96.846512
+215: 'Brittany spaniel',99.756203
+220: 'Sussex spaniel',99.564362
+225: 'malinois',99.858871
+230: 'Shetland sheepdog',81.475052
+236: 'Doberman',95.683205
+242: 'boxer',96.562233
+247: 'Saint Bernard',97.389809
+253: 'basenji',80.261383
+259: 'Pomeranian',88.276855
+264: 'Cardigan',97.019867
+270: 'white wolf',99.187943
+275: 'African hunting dog',44.558197
+280: 'grey fox',96.543427
+286: 'cougar',99.979515
+291: 'lion',75.130165
+296: 'ice bear',99.913483
+301: 'ladybug',96.153809
+307: 'weevil',96.36467
+312: 'cricket',56.645542
+317: 'leafhopper',99.726776
+322: 'ringlet',99.741287
+327: 'starfish',96.960106
+332: 'Angora',99.92305
+337: 'beaver',99.995972
+342: 'wild boar',85.900642
+348: 'ram',95.04026
+353: 'gazelle',99.280151
+358: 'polecat',91.527321
+363: 'armadillo',99.998154
+368: 'gibbon',99.943787
+373: 'macaque',99.446869
+378: 'capuchin',98.251518
+384: 'indri',99.934166
+389: 'barracouta',98.470634
+394: 'sturgeon',99.969437
+399: 'abaya',81.419487
+404: 'airliner',98.011902
+410: 'apiary',99.993729
+416: 'balance beam',96.978844
+421: 'bannister',95.323257
+427: 'barrel',99.219078
+432: 'bassoon',98.030693
+437: 'beacon',95.74736
+442: 'bell cote',98.7005
+448: 'birdhouse',99.999985
+453: 'bookcase',94.925186
+458: 'brass',99.985382
+465: 'bulletproof vest',99.938873
+471: 'cannon',83.69709
+476: 'carousel',99.992004
+483: 'castle',99.009026
+488: 'chain',72.95343
+494: 'chime',99.662689
+500: 'cliff dwelling',99.276749
+506: 'coil',99.730896
+512: 'corkscrew',91.471527
+518: 'crash helmet',99.914726
+524: 'cuirass',70.733032
+530: 'digital clock',94.789902
+535: 'disk brake',99.455788
+540: 'drilling platform',99.938049
+546: 'electric guitar',76.762924
+551: 'face powder',97.83886
+556: 'fire screen',97.855225
+561: 'forklift',99.998901
+566: 'French horn',99.927101
+571: 'gas pump',99.927193
+576: 'gondola',99.968361
+583: 'guillotine',99.99987
+590: 'hand-held computer',92.737984
+595: 'harvester',96.469902
+602: 'horizontal bar',99.545937
+607: 'jack-o'-lantern',99.639473
+612: 'jinrikisha',99.946968
+617: 'lab coat',99.986351
+624: 'library',99.062332
+630: 'Loafer',99.08873
+637: 'mailbox',99.582855
+645: 'maypole',99.966393
+650: 'microphone',97.392143
+655: 'miniskirt',99.764626
+661: 'Model T',99.961853
+667: 'mortarboard',90.18203
+672: 'mountain tent',99.997925
+677: 'nail',99.881859
+683: 'oboe',96.025047
+688: 'oscilloscope',99.999092
+696: 'paintbrush',96.637451
+701: 'parachute',99.996307
+706: 'patio',84.310341
+713: 'photocopier',99.849808
+718: 'pier',98.318031
+723: 'pinwheel',99.469688
+730: 'plow',99.997566
+735: 'poncho',99.950394
+741: 'prayer rug',99.93119
+747: 'punching bag',98.475822
+755: 'radio telescope',99.786972
+760: 'refrigerator',93.897446
+766: 'rotisserie',99.820282
+771: 'safe',99.904182
+776: 'sax',90.454231
+781: 'scoreboard',99.876945
+787: 'shield',99.489838
+792: 'shovel',99.991226
+797: 'sleeping bag',99.761185
+802: 'snowmobile',99.862885
+808: 'sombrero',99.575966
+814: 'speedboat',98.178223
+820: 'steam locomotive',97.131058
+826: 'stopwatch',99.84993
+831: 'studio couch',90.538559
+839: 'suspension bridge',99.555428
+845: 'syringe',99.992943
+851: 'television',99.960487
+856: 'thresher',94.456848
+862: 'torch',99.954399
+867: 'trailer truck',99.938164
+873: 'triumphal arch',98.749748
+879: 'umbrella',99.529228
+886: 'vending machine',99.590752
+892: 'wall clock',90.699425
+897: 'washer',99.36911
+902: 'whistle',99.250038
+909: 'wok',99.129852
+915: 'yurt',99.994064
+920: 'traffic light',86.946754
+925: 'consomme',99.17543
+930: 'French loaf',38.577141
+935: 'mashed potato',94.031616
+940: 'spaghetti squash',97.409561
+946: 'cardoon',96.337738
+951: 'lemon',99.451843
+956: 'custard apple',44.151497
+962: 'meat loaf',99.998001
+967: 'espresso',98.253448
+972: 'cliff',76.435303
+977: 'sandbar',96.368156
